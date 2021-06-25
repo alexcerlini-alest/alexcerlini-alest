@@ -1,8 +1,8 @@
 <h1 align="center">Hi dear, I'm Alexander Andrade Cerlini <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <h3 align="center">A Web/Mobile Developer Jr</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-cerlini" alt="Alex-Cerlini" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexcerlini-alest" alt="Alex-Cerlini" /> </p>
 
-- 📫 How to reach me **alexcerlinii@gmail.com**
+- 📫 How to reach me **alexander.andrade@alest.com.br**
 
 - 💻 Graduating in Systems Analysis and Development (Ends in June / 2022)
 
