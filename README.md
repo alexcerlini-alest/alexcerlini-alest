@@ -44,7 +44,7 @@
 
 ---
 
-<p align="center" style="margin-top: 30px"><img src="https://github-readme-stats.vercel.app/api?username=alex-cerlini&show_icons=true" alt="Alex-Cerlini"/></p>
+<p align="center" style="margin-top: 30px"><img src="https://github-readme-stats.vercel.app/api?username=alexcerlini-alest&show_icons=true" alt="Alex-Cerlini"/></p>
 
 <!--
 <p align="left">
